@@ -10,7 +10,7 @@
 * [Conferences](#conferences)
 * [Related Awesome Lists](#related-awesome-lists)
 * [Subreddits](#subreddits)
-* [Certifications](#cerfications)
+* [Certifications](#certifications)
 * [Miscellaneous](#miscellaneous)
 
 ### Courses
