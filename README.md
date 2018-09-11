@@ -43,8 +43,8 @@
 
 ### Journals
 ---
-* [IEEE Transactions on Dependable and Secure Computing (TDSC)]()
-* [IEEE Security and Privacy Magazine]()
+* [IEEE Transactions on Dependable and Secure Computing (TDSC)](https://www.computer.org/web/tdsc)
+* [IEEE Security and Privacy Magazine](https://publications.computer.org/security-and-privacy/)
 * [ACM Transactions on Privacy and Security (TOPS)](https://dl.acm.org/citation.cfm?id=3208360)
 
 ### Conferences
