@@ -34,6 +34,13 @@
 * [Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World](https://www.amazon.com/Data-Goliath-Battles-Collect-Control/dp/039335217X?crid=1JRRTVHWTK72I&keywords=data+security&qid=1536656236&sprefix=data+security%2Caps%2C258&sr=8-6&ref=sr_1_6)
 * [The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data](https://www.amazon.com/Art-Invisibility-Worlds-Teaches-Brother/dp/0316380504?crid=1JRRTVHWTK72I&keywords=data+security&qid=1536656236&sprefix=data+security%2Caps%2C258&sr=8-2&ref=sr_1_2)
 
+### Guides and Checklists
+---
+* [Mobile privacy: a better practice guide for mobile app developers](https://www.oaic.gov.au/resources/agencies-and-organisations/guides/guide-for-mobile-app-developers.pdf)
+* [Securing Personal Information: A Self-Assessment Tool for Organizations](https://www.oipc.bc.ca/guidance-documents/1439)
+* [Reasonable Security Checklist for Personal Information](https://oipc.novascotia.ca/sites/default/files/publications/Reasonable%20Security%20Checklist%20for%20Personal%20Information%20(22%20Sept%2015)_0.pdf)
+
+
 ### Tutorials
 ---
 * [Simons Institute - Differential Privacy Tutorial](https://www.youtube.com/watch?v=ekIL65D0R3o)
