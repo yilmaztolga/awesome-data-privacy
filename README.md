@@ -37,6 +37,7 @@
 
 ### Guides and Checklists
 ---
+* [OWASP User Privacy Protection Cheat Sheet](https://www.owasp.org/index.php/User_Privacy_Protection_Cheat_Sheet)
 * [Mobile privacy: a better practice guide for mobile app developers](https://www.oaic.gov.au/resources/agencies-and-organisations/guides/guide-for-mobile-app-developers.pdf)
 * [Securing Personal Information: A Self-Assessment Tool for Organizations](https://www.oipc.bc.ca/guidance-documents/1439)
 * [Reasonable Security Checklist for Personal Information](https://oipc.novascotia.ca/sites/default/files/publications/Reasonable%20Security%20Checklist%20for%20Personal%20Information%20(22%20Sept%2015)_0.pdf)
@@ -85,5 +86,7 @@
 ---
 * [Data Protection Laws around the World](https://www.dlapiperdataprotection.com/)  
   (e.g., [Turkey](https://www.dlapiperdataprotection.com/index.html?c=TR&c2=&t=law), [USA](https://www.dlapiperdataprotection.com/index.html?c=US&c2=&t=law))
+* [GDPR Tracker](https://gdprtracker.io/) GDPR compliance of various cloud services & subprocessors
+* [Privacy Incidents Database](https://sites.google.com/site/privacyincidentsdatabase/incidents)
 * [The new EU General Data Protection Regulation in Under 60 Minutes!](https://www.youtube.com/watch?v=NxgZ57BTkFQ)
 * [Facebook CEO Mark Zuckerberg testimony on data privacy before Senate committee](https://www.youtube.com/watch?v=GQN4On0K7-w)
