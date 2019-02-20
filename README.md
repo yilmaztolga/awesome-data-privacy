@@ -42,6 +42,27 @@
 * [Securing Personal Information: A Self-Assessment Tool for Organizations](https://www.oipc.bc.ca/guidance-documents/1439)
 * [Reasonable Security Checklist for Personal Information](https://oipc.novascotia.ca/sites/default/files/publications/Reasonable%20Security%20Checklist%20for%20Personal%20Information%20(22%20Sept%2015)_0.pdf)
 
+### Tools and Libraries
+---
+#### Anonymization
+* [ARX - Open Source Data Anonymization Software](https://github.com/arx-deidentifier/arx)
+* [UTD Anonymization Toolbox](http://cs.utdallas.edu/dspl/cgi-bin/toolbox/index.php?go=home)
+* [Amnesia](https://amnesia.openaire.eu/)
+* [Anonymizer](https://github.com/DivanteLtd/anonymizer)
+* [Open Anonymizer](https://sourceforge.net/projects/openanonymizer/)
+* [µArgus](http://neon.vb.cbs.nl/casc/mu.htm)
+* [Cornell Anonymization Toolkit](https://sourceforge.net/projects/anony-toolkit/)
+* [sdcMicro](https://github.com/sdcTools/sdcMicro)
+* [anonymize-it](https://github.com/elastic/anonymize-it)
+
+#### Machine Learning
+* [Tensorflow Privacy](https://github.com/tensorflow/privacy)
+
+#### Reporting and Analysis
+* [RAPPOR by Google](https://github.com/google/rappor)
+* [Fair Analytics](https://github.com/vesparny/fair-analytics)
+
+Tools related to general privacy can be found in [privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting) and [awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy)
 
 ### Tutorials
 ---
@@ -69,6 +90,8 @@
 * [awesome-appsec](https://github.com/paragonie/awesome-appsec)
 * [awesome-security](https://github.com/sbilly/awesome-security)
 * [awesome-web-security](https://github.com/qazbnm456/awesome-web-security)
+* [privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting)
+* [awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy)
 
 ### Subreddits
 ---
