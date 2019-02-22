@@ -6,6 +6,7 @@
 * [Courses](#courses)
 * [Books](#books)
 * [Guides and Checklists](#guides-and-checklists)
+* [Tools and Libraries](#tools-and-libraries)
 * [Tutorials](#tutorials)
 * [Journals](#journals)
 * [Conferences](#conferences)
