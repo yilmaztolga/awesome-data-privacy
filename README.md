@@ -28,6 +28,7 @@
 * [Harvard - Mathematical Approaches to Data Privacy](http://people.seas.harvard.edu/~salil/diffprivcourse/spring13/) (Spring 2013)
 * [UT Austin - Theory and Practice of Secure Systems](http://www.cs.utexas.edu/~shmat/courses/cs380s_fall09/) (Fall 2009)
 * [Udemy - Data Security](https://www.udemy.com/data-security/)
+* [UWaterloo - Computer Security and Privacy](https://crysp.uwaterloo.ca/courses/cs458/S19-material/)(Spring 2019)
 
 ### Books
 ---
