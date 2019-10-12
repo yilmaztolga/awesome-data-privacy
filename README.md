@@ -29,7 +29,7 @@
 * [UT Austin - Theory and Practice of Secure Systems](http://www.cs.utexas.edu/~shmat/courses/cs380s_fall09/) (Fall 2009)
 * [Udemy - Data Security](https://www.udemy.com/data-security/)
 * [UWaterloo - Computer Security and Privacy](https://crysp.uwaterloo.ca/courses/cs458/S19-material/) (Spring 2019)
-* [University of Vermont - Data Privacy] (https://jnear.github.io/cs295-data-privacy/) (Fall 2019)
+* [University of Vermont - Data Privacy](https://jnear.github.io/cs295-data-privacy/) (Fall 2019)
 * [University of Minnesota - The Algorithmic Foundations of Data Privacy](https://zstevenwu.com/courses/f18/csci8980_dp/index.html) (Fall 2018) 
 
 ### Books
@@ -73,10 +73,10 @@
 * [RAPPOR by Google](https://github.com/google/rappor)
 * [Fair Analytics](https://github.com/vesparny/fair-analytics)
 
-Tools related to general privacy can be found in [privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting) and [awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy)
-
 #### GDPR
-* [OpenGDPR] (https://github.com/opengdpr/opengdpr)
+* [OpenGDPR](https://github.com/opengdpr/opengdpr)
+
+Tools related to general privacy can be found in [privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting) and [awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy)
 
 ### Tutorials
 ---
