@@ -28,11 +28,15 @@
 * [Harvard - Mathematical Approaches to Data Privacy](http://people.seas.harvard.edu/~salil/diffprivcourse/spring13/) (Spring 2013)
 * [UT Austin - Theory and Practice of Secure Systems](http://www.cs.utexas.edu/~shmat/courses/cs380s_fall09/) (Fall 2009)
 * [Udemy - Data Security](https://www.udemy.com/data-security/)
-* [UWaterloo - Computer Security and Privacy](https://crysp.uwaterloo.ca/courses/cs458/S19-material/)(Spring 2019)
+* [UWaterloo - Computer Security and Privacy](https://crysp.uwaterloo.ca/courses/cs458/S19-material/) (Spring 2019)
+* [University of Vermont - Data Privacy] (https://jnear.github.io/cs295-data-privacy/) (Fall 2019)
+* [University of Minnesota - The Algorithmic Foundations of Data Privacy](https://zstevenwu.com/courses/f18/csci8980_dp/index.html) (Fall 2018) 
 
 ### Books
 ---
 * [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
+* [Differential Privacy: A Primer for a Non-technical Audience](https://privacytools.seas.harvard.edu/files/privacytools/files/pedagogical-document-dp_new.pdf)
+* [The Complexity of Differential Privacy](http://privacytools.seas.harvard.edu/files/privacytools/files/complexityprivacy_1.pdf)
 * [Lectures on Data Security - Modern Cryptology in Theory and Practice](https://www.springer.com/us/book/9783540657576)
 * [Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World](https://www.amazon.com/Data-Goliath-Battles-Collect-Control/dp/039335217X?crid=1JRRTVHWTK72I&keywords=data+security&qid=1536656236&sprefix=data+security%2Caps%2C258&sr=8-6&ref=sr_1_6)
 * [The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data](https://www.amazon.com/Art-Invisibility-Worlds-Teaches-Brother/dp/0316380504?crid=1JRRTVHWTK72I&keywords=data+security&qid=1536656236&sprefix=data+security%2Caps%2C258&sr=8-2&ref=sr_1_2)
@@ -46,6 +50,9 @@
 
 ### Tools and Libraries
 ---
+#### Data Generation
+* [Synthetic Data Generation Framework (SGF)](https://vbinds.ch/node/69)
+
 #### Anonymization
 * [ARX - Open Source Data Anonymization Software](https://github.com/arx-deidentifier/arx)
 * [UTD Anonymization Toolbox](http://cs.utdallas.edu/dspl/cgi-bin/toolbox/index.php?go=home)
@@ -56,15 +63,20 @@
 * [Cornell Anonymization Toolkit](https://sourceforge.net/projects/anony-toolkit/)
 * [sdcMicro](https://github.com/sdcTools/sdcMicro)
 * [anonymize-it](https://github.com/elastic/anonymize-it)
+* [Microsoft Presidio - Data protection and anonymization API](https://github.com/microsoft/presidio)
 
 #### Machine Learning
 * [Tensorflow Privacy](https://github.com/tensorflow/privacy)
+* [IBM Differential Privacy Library](https://github.com/IBM/differential-privacy-library)
 
 #### Reporting and Analysis
 * [RAPPOR by Google](https://github.com/google/rappor)
 * [Fair Analytics](https://github.com/vesparny/fair-analytics)
 
 Tools related to general privacy can be found in [privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting) and [awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy)
+
+#### GDPR
+* [OpenGDPR] (https://github.com/opengdpr/opengdpr)
 
 ### Tutorials
 ---
@@ -117,3 +129,4 @@ Tools related to general privacy can be found in [privacy-respecting](https://gi
 * [Privacy Incidents Database](https://sites.google.com/site/privacyincidentsdatabase/incidents)
 * [The new EU General Data Protection Regulation in Under 60 Minutes!](https://www.youtube.com/watch?v=NxgZ57BTkFQ)
 * [Facebook CEO Mark Zuckerberg testimony on data privacy before Senate committee](https://www.youtube.com/watch?v=GQN4On0K7-w)
+* [Data Privacy for Data Scientists](https://github.com/KIProtect/data-privacy-for-data-scientists)
