@@ -121,7 +121,7 @@ Tools related to general privacy can be found in [privacy-respecting](https://gi
 
 ### Miscellaneous
 ---
-* [Privacy Patterns](https://privacypatterns.org/) Software engineerigDesign solutions to privacy problems 
+* [Privacy Patterns](https://privacypatterns.org/) Software engineering design solutions to privacy problems 
 * [Data Protection Laws around the World](https://www.dlapiperdataprotection.com/)  
   (e.g., [Turkey](https://www.dlapiperdataprotection.com/index.html?c=TR&c2=&t=law), [USA](https://www.dlapiperdataprotection.com/index.html?c=US&c2=&t=law))
 * [GDPR Tracker](https://gdprtracker.io/) GDPR compliance of various cloud services & subprocessors
