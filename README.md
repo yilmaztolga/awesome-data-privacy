@@ -89,7 +89,10 @@ Tools related to general privacy can be found in [privacy-respecting](https://gi
 ---
 * [IEEE Transactions on Dependable and Secure Computing (TDSC)](https://www.computer.org/web/tdsc)
 * [IEEE Security and Privacy Magazine](https://publications.computer.org/security-and-privacy/)
+* [IEEE Security & Privacy](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8013)
 * [ACM Transactions on Privacy and Security (TOPS)](https://dl.acm.org/citation.cfm?id=3208360)
+* [International Journal of Information Security and Privacy(IJISP)](https://www.igi-global.com/journal/international-journal-information-security-privacy/1096)
+* [Transactions on Data Privacy](http://www.tdp.cat/)
 
 ### Conferences
 ---
