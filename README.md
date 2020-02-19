@@ -58,6 +58,7 @@
 * [UTD Anonymization Toolbox](http://cs.utdallas.edu/dspl/cgi-bin/toolbox/index.php?go=home)
 * [Amnesia](https://amnesia.openaire.eu/)
 * [Anonymizer](https://github.com/DivanteLtd/anonymizer)
+* [ExifCleaner - Desktop app to remove image metadata](https://exifcleaner.com)
 * [Open Anonymizer](https://sourceforge.net/projects/openanonymizer/)
 * [µArgus](http://neon.vb.cbs.nl/casc/mu.htm)
 * [Cornell Anonymization Toolkit](https://sourceforge.net/projects/anony-toolkit/)
