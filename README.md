@@ -40,6 +40,9 @@
 * [Lectures on Data Security - Modern Cryptology in Theory and Practice](https://www.springer.com/us/book/9783540657576)
 * [Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World](https://www.amazon.com/Data-Goliath-Battles-Collect-Control/dp/039335217X?crid=1JRRTVHWTK72I&keywords=data+security&qid=1536656236&sprefix=data+security%2Caps%2C258&sr=8-6&ref=sr_1_6)
 * [The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data](https://www.amazon.com/Art-Invisibility-Worlds-Teaches-Brother/dp/0316380504?crid=1JRRTVHWTK72I&keywords=data+security&qid=1536656236&sprefix=data+security%2Caps%2C258&sr=8-2&ref=sr_1_2)
+* [Permanent Record (by Edward Snowden)](https://amzn.to/30wxxXi)
+* [Sandworm (by  Andy Greenberg)](https://amzn.to/2FVByeJ)
+
 
 ### Guides and Checklists
 ---
@@ -47,6 +50,8 @@
 * [Mobile privacy: a better practice guide for mobile app developers](https://www.oaic.gov.au/resources/agencies-and-organisations/guides/guide-for-mobile-app-developers.pdf)
 * [Securing Personal Information: A Self-Assessment Tool for Organizations](https://www.oipc.bc.ca/guidance-documents/1439)
 * [Reasonable Security Checklist for Personal Information](https://oipc.novascotia.ca/sites/default/files/publications/Reasonable%20Security%20Checklist%20for%20Personal%20Information%20(22%20Sept%2015)_0.pdf)
+* [Pro Privacy: Encryption for Privacy Guide](https://proprivacy.com/guides/the-ultimate-privacy-guide)
+* [EFF: Surveillance Self-Defense](https://ssd.eff.org)
 
 ### Tools and Libraries
 ---
@@ -106,6 +111,7 @@ Tools related to general privacy can be found in [privacy-respecting](https://gi
 * [awesome-cryptography](https://github.com/sobolevn/awesome-cryptography)
 * [awesome-appsec](https://github.com/paragonie/awesome-appsec)
 * [awesome-security](https://github.com/sbilly/awesome-security)
+* [personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
 * [awesome-web-security](https://github.com/qazbnm456/awesome-web-security)
 * [privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting)
 * [awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy)
