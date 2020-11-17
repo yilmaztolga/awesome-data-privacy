@@ -30,7 +30,10 @@
 * [Udemy - Data Security](https://www.udemy.com/data-security/)
 * [UWaterloo - Computer Security and Privacy](https://crysp.uwaterloo.ca/courses/cs458/S19-material/) (Spring 2019)
 * [University of Vermont - Data Privacy](https://jnear.github.io/cs295-data-privacy/) (Fall 2019)
-* [University of Minnesota - The Algorithmic Foundations of Data Privacy](https://zstevenwu.com/courses/f18/csci8980_dp/index.html) (Fall 2018) 
+* [University of Minnesota - The Algorithmic Foundations of Data Privacy](https://zstevenwu.com/courses/f18/csci8980_dp/index.html) (Fall 2018)
+* [Columbia - Privacy and Online Social Networks](https://www.cs.columbia.edu/~bala/s14/index.html) (Spring 2014)
+* [Georgia Tech - Cybersecurity Lecture Series](https://cyber.gatech.edu/cyber-lecture)
+* [Eindhoven University of Technology - Principles of Data Protection](https://security1.win.tue.nl/~zannone/teaching/DTM/2IMS25-20-21.html) (Fall 2020)
 
 ### Books
 ---
