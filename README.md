@@ -106,6 +106,10 @@ Tools related to general privacy can be found in [privacy-respecting](https://gi
 * [ACM Transactions on Privacy and Security (TOPS)](https://dl.acm.org/citation.cfm?id=3208360)
 * [International Journal of Information Security and Privacy(IJISP)](https://www.igi-global.com/journal/international-journal-information-security-privacy/1096)
 * [Transactions on Data Privacy](http://www.tdp.cat/)
+* [Computers and Security](https://www.journals.elsevier.com/computers-and-security)
+* [IEEE Transactions on Information Forensics and Security](https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security)
+* [Journal of Information Security and Applications](https://www.journals.elsevier.com/journal-of-information-security-and-applications)
+* [International Journal of Information Security](https://www.springer.com/journal/10207)
 
 ### Conferences
 ---
