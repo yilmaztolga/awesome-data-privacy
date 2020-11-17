@@ -73,6 +73,11 @@
 * [anonymize-it](https://github.com/elastic/anonymize-it)
 * [Microsoft Presidio - Data protection and anonymization API](https://github.com/microsoft/presidio)
 
+#### Differential Privacy
+* [IBM Differential Privacy Library](https://github.com/IBM/differential-privacy-library)
+* [Google- Differential Privacy Library](https://github.com/google/differential-privacy)
+* [diffpriv](https://github.com/brubinstein/diffpriv)
+
 #### Machine Learning
 * [Tensorflow Privacy](https://github.com/tensorflow/privacy)
 * [IBM Differential Privacy Library](https://github.com/IBM/differential-privacy-library)
