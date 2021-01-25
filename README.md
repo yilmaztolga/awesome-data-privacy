@@ -45,7 +45,7 @@
 * [The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data](https://www.amazon.com/Art-Invisibility-Worlds-Teaches-Brother/dp/0316380504?crid=1JRRTVHWTK72I&keywords=data+security&qid=1536656236&sprefix=data+security%2Caps%2C258&sr=8-2&ref=sr_1_2)
 * [Permanent Record (by Edward Snowden)](https://amzn.to/30wxxXi)
 * [Sandworm (by  Andy Greenberg)](https://amzn.to/2FVByeJ)
-
+* [Privacy by Design (by  Nishant Bhajaria)](https://www.manning.com/books/privacy-by-design)
 
 ### Guides and Checklists
 ---
