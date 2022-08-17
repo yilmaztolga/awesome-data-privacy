@@ -46,6 +46,7 @@
 * [Permanent Record (by Edward Snowden)](https://amzn.to/30wxxXi)
 * [Sandworm (by  Andy Greenberg)](https://amzn.to/2FVByeJ)
 * [Privacy by Design (by  Nishant Bhajaria)](https://www.manning.com/books/privacy-by-design)
+* [Data Privacy: What Enterprises Need to Know?] (https://www.amazon.com/Data-Privacy-What-Enterprises-Need-ebook/dp/B0B5XPD468/)
 
 ### Guides and Checklists
 ---
